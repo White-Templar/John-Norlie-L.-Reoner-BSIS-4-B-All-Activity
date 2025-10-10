@@ -1,0 +1,21 @@
+This folder contains custom fonts for the medical appointment app.
+
+To use custom fonts, download and add the following files:
+
+Roboto Font Family:
+- Roboto-Regular.ttf
+- Roboto-Bold.ttf
+- Roboto-Light.ttf
+- Roboto-Medium.ttf
+
+Poppins Font Family:
+- Poppins-Regular.ttf
+- Poppins-Bold.ttf
+- Poppins-Light.ttf
+- Poppins-Medium.ttf
+
+Download from:
+- Google Fonts (https://fonts.google.com/)
+- Font Squirrel (https://www.fontsquirrel.com/)
+
+These fonts are already configured in pubspec.yaml and used throughout the app.

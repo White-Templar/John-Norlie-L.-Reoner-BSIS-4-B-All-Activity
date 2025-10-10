@@ -1,0 +1,10 @@
+This folder contains placeholder images for the medical appointment app.
+
+In a real implementation, you would add:
+- Medical equipment images
+- Doctor photos
+- Hospital facility images
+- Medical procedure illustrations
+- UI icons and graphics
+
+Supported formats: PNG, JPG, JPEG, GIF, WebP, SVG

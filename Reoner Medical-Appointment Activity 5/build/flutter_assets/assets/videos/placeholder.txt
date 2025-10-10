@@ -1,0 +1,16 @@
+This folder contains placeholder videos for the medical appointment app.
+
+In a real implementation, you would add:
+- Medical procedure training videos
+- CPR instruction videos
+- Equipment usage demonstrations
+- Patient education videos
+- Health and safety guidelines
+
+Supported formats: MP4, MOV, AVI, WebM
+
+Example files to add:
+- cpr_training.mp4
+- hand_washing_procedure.mp4
+- blood_pressure_measurement.mp4
+- emergency_procedures.mp4
